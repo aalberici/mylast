@@ -1,0 +1,10 @@
+status: complete
+title: $:/Import
+type: text/vnd.tiddlywiki
+
+The following tiddlers were imported:
+
+# [[$:/plugins/felixhayashi/tiddlymap]]
+# [[$:/plugins/felixhayashi/vis]]
+# [[$:/plugins/felixhayashi/hotzone]]
+# [[$:/plugins/kookma/commander]]
